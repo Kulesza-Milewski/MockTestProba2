@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <TransportList>
+        <transport>
+            <name AmountOfLetters = "3" costam="xxx">Bus</name>
+            <ProdukucjaEmisjiCO2 costam = "xxx" costam2 = "xxx">Yes</ProdukucjaEmisjiCO2>
+            <Size iloscMiejscSiedzacych = "zzz" iloscMiejscStojacych = "yyy">Big</Size>
+            <WheelchairAccecible PullOutRamp = "yes" cosTam = "xxx">Yes</WheelchairAccecible>
+        </transport>   
+        <transport>
+            <name AmountOfLetters = "4" costam="xxx">Train</name>
+            <ProdukucjaEmisjiCO2 costam = "xxx" costam2 = "xxx">Yes</ProdukucjaEmisjiCO2>
+            <Size iloscMiejscSiedzacych = "zzz" iloscMiejscStojacych = "yyy">Big</Size>
+            <WheelchairAccecible PullOutRamp = "yes" cosTam = "xxx">Yes</WheelchairAccecible>
+        </transport>
+        <transport>
+            <name AmountOfLetters = "4" costam="xxx">Tram</name>
+            <ProdukucjaEmisjiCO2 costam = "xxx" costam2 = "xxx">No</ProdukucjaEmisjiCO2>
+            <Size iloscMiejscSiedzacych = "zzz" iloscMiejscStojacych = "yyy">Big</Size>
+            <WheelchairAccecible PullOutRamp = "yes" cosTam = "xxx">Yes</WheelchairAccecible>
+        </transport>
+        <transport>
+            <name AmountOfLetters = "4" costam="xxx">Bike</name>
+            <ProdukucjaEmisjiCO2 costam = "xxx" costam2 = "xxx">No</ProdukucjaEmisjiCO2>
+            <Size iloscMiejscSiedzacych = "zzz" iloscMiejscStojacych = "yyy">Small</Size>
+            <WheelchairAccecible PullOutRamp = "no" cosTam = "xxx">No</WheelchairAccecible>
+        </transport>
+        <transport>
+            <name AmountOfLetters = "6" costam="xxx">Scooter</name>
+            <ProdukucjaEmisjiCO2 costam = "xxx" costam2 = "xxx">No</ProdukucjaEmisjiCO2>
+            <Size iloscMiejscSiedzacych = "zzz" iloscMiejscStojacych = "yyy">Small</Size>
+            <WheelchairAccecible PullOutRamp = "no" cosTam = "xxx">No</WheelchairAccecible>
+        </transport>
+        <transport>
+            <name AmountOfLetters = "4" costam="xxx">Taxi</name>
+            <ProdukucjaEmisjiCO2 costam = "xxx" costam2 = "xxx">Yes</ProdukucjaEmisjiCO2>
+            <Size iloscMiejscSiedzacych = "zzz" iloscMiejscStojacych = "yyy">Medium</Size>
+            <WheelchairAccecible PullOutRamp = "no" cosTam = "xxx">Yes</WheelchairAccecible>
+        </transport>
+    </TransportList> 
