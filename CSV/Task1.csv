@@ -1,0 +1,7 @@
+TransportType,PrimaryUse,Infrastructure,Capacity
+Bus,Urban/Suburban,Road,Medium
+Tram,Urban,Rail (Street-level),Medium
+Metro,Urban,Dedicated Rail (Tunnel/Elevated),High
+Commuter Rail,Suburban-to-Urban,Dedicated Rail,High
+Intercity Rail,Long-distance,Dedicated Rail,High
+Ferry,Urban/Regional,Waterway,Medium
