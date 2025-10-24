@@ -13,4 +13,12 @@ Recently Kraków has actually won awards for the quality of its public transport
 
 On arrival, many people who are visiting Kraków for the first time don’t even consider getting the bus into town. But, while the taxi ranks may be closer to the terminal exit, the ride is typically 25 times more expensive, far less comfortable, and, depending on the destination, often longer. Head to the bus stop that’s just to the left of the terminal exit and jump on any bus; they all head to the centre, and have real time maps on board that will give you the name of each stop long before you arrive.
 
+## DATA
 
+This table provides an overview of the primary types of public transport available within the city of Kraków. It highlights the main operator for each transport mode, typical line numbering conventions, and their primary service zones.
+
+| Transport Type | Main Operator | Line Numbering (Examples) | Primary Service Area |
+|----------------|---------------|---------------------------|----------------------|
+| Tram | MPK S.A. | "3, 8, 13, 24, 50, 52" | Zone I (City) |
+| City Bus | MPK S.A. | "139, 179, 502" | Zone I (City) |
+| Agglomeration Bus | MPK S.A. & Mobilis | "208, 252, 304, 902" | "Zones I, II, & III (Suburbs)"|
